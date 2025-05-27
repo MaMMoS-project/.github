@@ -1,16 +1,18 @@
 Git repositories of the MaMMoS project
 ---------------------------------------------
 
-The webpage of the project at https://mammos-project.github.io/
+- Webpage of the MaMMoS project at https://mammos-project.github.io/
 
-The multiscale simulation suite is documented at https://mammos-project.github.io/mammos
+- MAgnetic Multiscale MOdelling Suite (MaMMoS) software documentation at 
+  https://mammos-project.github.io/mammos
+
+- Full list of repositories at https://github.com/orgs/MaMMoS-project/repositories
 
 
-------------------------
 
-## Acknowledgements
+-------------------
 
 This software has been supported by the European Union’s Horizon Europe research
-and innovation programme under grant agreement No 101135546 (MaMMoS).”
+and innovation programme under grant agreement No 101135546 (MaMMoS).
 
 
